@@ -1,0 +1,72 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+  color: black;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: rgb(116, 116, 116);
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  color: black;
+}
+
+th {
+    .btn-secondary {
+  background-color: purple !important;
+  border-color: purple !important;
+}
+}
+.btn-secondary {
+  background-color: purple !important;
+  border-color: purple !important;
+  color: white !important;
+}
+
+.btn-primary {
+  background-color: green !important;
+  border-color: green !important;
+}
+
+.btn-danger {
+  background-color: orange !important;
+  border-color: orange !important;
+}
+
+th {
+  background-color: pink !important;
+  color: black !important;
+}
+
+.form-control {
+  background-color: lightyellow !important;
+  border: 2px solid blue !important;
+}
